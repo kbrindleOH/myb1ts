@@ -9,6 +9,6 @@ kbrindleOH/myb1ts is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Haikus for Codespaces
+# Codespaces for MyB1TS
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+This is a build template for MyB1ts
