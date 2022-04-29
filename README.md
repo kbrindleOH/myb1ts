@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @kbrindleOH
-- 👀 I’m interested in building Azure ARMs
-- 🌱 I’m currently learning how to build them so ang advice..would be helpful!
-- 💞️ I’m looking to collaborate on deploying servers (2022), Cloud and Physical hardware
-- 📫 How to reach me kbrindle2002@yahoo.com
+- 👀 MyB1TS Build
+- 🌱 My First Stab at Developing Templates for the MultiVerse
+- 💞️ I’m looking to collaborate on this project, if interested let me know!
+- 📫 How to reach me kbrindle@brindleitsolutions.com, Subject [Help with MyB1TS Project]
 
 <!---
-kbrindleOH/kbrindleOH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kbrindleOH/myb1ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
